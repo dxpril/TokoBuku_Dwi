@@ -14,7 +14,7 @@
       <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/distributor/index.php">Home</a></li>
         <li class="breadcrumb-item">Pages</li>
-        <li class="breadcrumb-item active">Blank</li>
+        <li class="breadcrumb-item active">Blnk</li>
       </ol>
     </nav>
   </div><!-- End Page Title -->
