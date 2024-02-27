@@ -6,23 +6,23 @@
     <li class="nav-item">
       <a class="nav-link collapsed" href="/distributor/index.php">
         <i class="bi bi-grid"></i>
-        <span>Dwi</span>
+        <span>Distributor</span>
       </a>
     </li><!-- End Dashboard Nav -->
 
     <!-- <li class="nav-heading">Pages</li> -->
 
     <li class="nav-item">
-      <a class="nav-link collapsed" href="users-profile.html">
+      <a class="nav-link collapsed" href="/pasok/index.php">
         <i class="bi bi-person"></i>
-        <span>Profile</span>
+        <span>Pasok</span>
       </a>
     </li><!-- End Profile Page Nav -->
 
     <li class="nav-item">
-      <a class="nav-link collapsed" href="pages-register.html">
+      <a class="nav-link collapsed" href="/buku/indexBuku.php">
         <i class="bi bi-card-list"></i>
-        <span>Register</span>
+        <span>Buku</span>
       </a>
     </li><!-- End Register Page Nav -->
 

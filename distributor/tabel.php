@@ -1,17 +1,13 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="/assets/distributor/tabel.php">
-</head>
-<body>
-<form action="simpan_siswa.php" method="post">
-            <div class="mb-3">
-                <label for="NIS" class="form-label">id distributor</label>
-                <input type="text"class="form-control"name="id_distributor">
-            </div>
+<?php
+
+include "../layout/header.php";
+include "../layout/navbar.php";
+include "../layout/menu.php";
+?>
+<section class="main" id="main">
+    <main>
+    <h2>Create Distributor</h2>
+<form action="simpan.php" method="post">
             <div class="mb-3">
                 <label for="Nama" class="form-label">nama distributor</label>
                 <input type="text" class="form-control"name="nama_distributor">
@@ -24,6 +20,7 @@
                 <label for="No Telp" class="form-label">telepon</label>
                 <input type="text" class="form-control"name="telepon">
             </div>
+            <button type="submit" class="btn btn-primary">Submit</button>
         </form>
-</body>
-</html>
+</main>
+</section>
